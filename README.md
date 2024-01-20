@@ -8,5 +8,7 @@ The Solution: Introducing a revolutionary Android app that delivers fuel straigh
 Tech Stack:
 
 Developed in Android Studio: A robust and popular IDE for building Android apps.
+
 Coding with Java: The core programming language for Android app development.
+
 XML for UI Design: Creating a user-friendly interface for effortless fuel ordering.
